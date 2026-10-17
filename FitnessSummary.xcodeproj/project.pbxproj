@@ -1,0 +1,327 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		603295441155A8736C25417E /* ActionButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A0FC70651FC03471D93EDD2 /* ActionButton.swift */; };
+		8852892E5DF16C008B93D98E /* ActivityRingCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBBA24A261F126AD2E2ED095 /* ActivityRingCard.swift */; };
+		B83C35C0DCF4502246EC0C0E /* AssetImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97476D2E91B379138AF31119 /* AssetImage.swift */; };
+		5333AD5AD5265AB2B48202E3 /* CardContainer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DF9B3618D47960810E5AD94 /* CardContainer.swift */; };
+		7B30BDB16F51050CC5487090 /* CoachTipCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CF6624CBD3A5A6A39FF44C3 /* CoachTipCard.swift */; };
+		45425CE6978919641D06BE13 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C823BC2C691B2804728814DE /* ContentView.swift */; };
+		384E202ABCB696348798E9B0 /* FitnessPlusCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B9AF9DCCDCCE4FCF0015C2E /* FitnessPlusCard.swift */; };
+		5641581A66CCE6416E601390 /* FitnessSummaryApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDB5CDBAB0383A035317BBA9 /* FitnessSummaryApp.swift */; };
+		F9DA58D85048BA3F8FB87DE7 /* FloatingTabBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = A75F4B1E5AC8771206D3DE6A /* FloatingTabBar.swift */; };
+		2A656E977E02D6A32D90AF8A /* HeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF01BFBDD4BDC12674B4C81B /* HeaderView.swift */; };
+		FA91014C4C105BD791FD6DED /* HourlyBarChart.swift in Sources */ = {isa = PBXBuildFile; fileRef = C96F026AA6FAA8425F32EE9E /* HourlyBarChart.swift */; };
+		5C8F13D46C068BDF94E6850B /* MedalCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CE882AF5A50D79D377B4CD2 /* MedalCard.swift */; };
+		EC349240613665BE2B5509A9 /* MetricCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = BBC255B8F730DE3E5CC7C0D9 /* MetricCard.swift */; };
+		336D5E183BA17F07B26D4C37 /* Theme.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B081B71AFD4F2C57C1E3186 /* Theme.swift */; };
+		2E7542CA04F1CEBCAA9AC3E1 /* TrendsCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = B280F03FDE666D6390EF2770 /* TrendsCard.swift */; };
+		71EBA992CC3ECC9426D4749A /* WorkoutCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5B1C499A605F08F93A87D65 /* WorkoutCard.swift */; };
+		0B2581DA2D000015C5DB2588 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3AA011B54BF337D67E78CE8A /* Assets.xcassets */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		1A0FC70651FC03471D93EDD2 /* ActionButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActionButton.swift; sourceTree = "<group>"; };
+		CBBA24A261F126AD2E2ED095 /* ActivityRingCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActivityRingCard.swift; sourceTree = "<group>"; };
+		97476D2E91B379138AF31119 /* AssetImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AssetImage.swift; sourceTree = "<group>"; };
+		2DF9B3618D47960810E5AD94 /* CardContainer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardContainer.swift; sourceTree = "<group>"; };
+		1CF6624CBD3A5A6A39FF44C3 /* CoachTipCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoachTipCard.swift; sourceTree = "<group>"; };
+		C823BC2C691B2804728814DE /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		0B9AF9DCCDCCE4FCF0015C2E /* FitnessPlusCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FitnessPlusCard.swift; sourceTree = "<group>"; };
+		CDB5CDBAB0383A035317BBA9 /* FitnessSummaryApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FitnessSummaryApp.swift; sourceTree = "<group>"; };
+		A75F4B1E5AC8771206D3DE6A /* FloatingTabBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FloatingTabBar.swift; sourceTree = "<group>"; };
+		CF01BFBDD4BDC12674B4C81B /* HeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderView.swift; sourceTree = "<group>"; };
+		C96F026AA6FAA8425F32EE9E /* HourlyBarChart.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HourlyBarChart.swift; sourceTree = "<group>"; };
+		7CE882AF5A50D79D377B4CD2 /* MedalCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MedalCard.swift; sourceTree = "<group>"; };
+		BBC255B8F730DE3E5CC7C0D9 /* MetricCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MetricCard.swift; sourceTree = "<group>"; };
+		6B081B71AFD4F2C57C1E3186 /* Theme.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Theme.swift; sourceTree = "<group>"; };
+		B280F03FDE666D6390EF2770 /* TrendsCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrendsCard.swift; sourceTree = "<group>"; };
+		A5B1C499A605F08F93A87D65 /* WorkoutCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WorkoutCard.swift; sourceTree = "<group>"; };
+		3AA011B54BF337D67E78CE8A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		66AA018049E2658A20BFF2C4 /* report.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = report.md; sourceTree = "<group>"; };
+		53697378246A3255283F6374 /* FitnessSummary.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FitnessSummary.app; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		6B4D9B11E8A86DA9B880960B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		46E5A4FCAB6368FA62330CF3 = {
+			isa = PBXGroup;
+			children = (
+				9262F6DB4401FAC6ADBA4768 /* FitnessSummary */,
+				66AA018049E2658A20BFF2C4 /* report.md */,
+				0363C07C1E7FD0524330F633 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		9262F6DB4401FAC6ADBA4768 /* FitnessSummary */ = {
+			isa = PBXGroup;
+			children = (
+				1A0FC70651FC03471D93EDD2 /* ActionButton.swift */,
+				CBBA24A261F126AD2E2ED095 /* ActivityRingCard.swift */,
+				97476D2E91B379138AF31119 /* AssetImage.swift */,
+				2DF9B3618D47960810E5AD94 /* CardContainer.swift */,
+				1CF6624CBD3A5A6A39FF44C3 /* CoachTipCard.swift */,
+				C823BC2C691B2804728814DE /* ContentView.swift */,
+				0B9AF9DCCDCCE4FCF0015C2E /* FitnessPlusCard.swift */,
+				CDB5CDBAB0383A035317BBA9 /* FitnessSummaryApp.swift */,
+				A75F4B1E5AC8771206D3DE6A /* FloatingTabBar.swift */,
+				CF01BFBDD4BDC12674B4C81B /* HeaderView.swift */,
+				C96F026AA6FAA8425F32EE9E /* HourlyBarChart.swift */,
+				7CE882AF5A50D79D377B4CD2 /* MedalCard.swift */,
+				BBC255B8F730DE3E5CC7C0D9 /* MetricCard.swift */,
+				6B081B71AFD4F2C57C1E3186 /* Theme.swift */,
+				B280F03FDE666D6390EF2770 /* TrendsCard.swift */,
+				A5B1C499A605F08F93A87D65 /* WorkoutCard.swift */,
+				3AA011B54BF337D67E78CE8A /* Assets.xcassets */,
+			);
+			path = FitnessSummary;
+			sourceTree = "<group>";
+		};
+		0363C07C1E7FD0524330F633 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				53697378246A3255283F6374 /* FitnessSummary.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		104292535AAB3504BF725C38 /* FitnessSummary */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2A962649C1CB2F3B6DC25BCD /* Build configuration list for PBXNativeTarget "FitnessSummary" */;
+			buildPhases = (
+				C586E3392D95CC29CCDC1B95 /* Sources */,
+				6B4D9B11E8A86DA9B880960B /* Frameworks */,
+				F3B7431EE6DE669CC0277602 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = FitnessSummary;
+			productName = FitnessSummary;
+			productReference = 53697378246A3255283F6374 /* FitnessSummary.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		11D19FAFA91B7295A98D6C0C /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1500;
+				LastUpgradeCheck = 1500;
+				TargetAttributes = {
+					104292535AAB3504BF725C38 = {
+						CreatedOnToolsVersion = 15.0;
+					};
+				};
+			};
+			buildConfigurationList = E28BB0704BCB6EE33C260F76 /* Build configuration list for PBXProject "FitnessSummary" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 46E5A4FCAB6368FA62330CF3;
+			productRefGroup = 0363C07C1E7FD0524330F633 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				104292535AAB3504BF725C38 /* FitnessSummary */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		F3B7431EE6DE669CC0277602 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0B2581DA2D000015C5DB2588 /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		C586E3392D95CC29CCDC1B95 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				603295441155A8736C25417E /* ActionButton.swift in Sources */,
+				8852892E5DF16C008B93D98E /* ActivityRingCard.swift in Sources */,
+				B83C35C0DCF4502246EC0C0E /* AssetImage.swift in Sources */,
+				5333AD5AD5265AB2B48202E3 /* CardContainer.swift in Sources */,
+				7B30BDB16F51050CC5487090 /* CoachTipCard.swift in Sources */,
+				45425CE6978919641D06BE13 /* ContentView.swift in Sources */,
+				384E202ABCB696348798E9B0 /* FitnessPlusCard.swift in Sources */,
+				5641581A66CCE6416E601390 /* FitnessSummaryApp.swift in Sources */,
+				F9DA58D85048BA3F8FB87DE7 /* FloatingTabBar.swift in Sources */,
+				2A656E977E02D6A32D90AF8A /* HeaderView.swift in Sources */,
+				FA91014C4C105BD791FD6DED /* HourlyBarChart.swift in Sources */,
+				5C8F13D46C068BDF94E6850B /* MedalCard.swift in Sources */,
+				EC349240613665BE2B5509A9 /* MetricCard.swift in Sources */,
+				336D5E183BA17F07B26D4C37 /* Theme.swift in Sources */,
+				2E7542CA04F1CEBCAA9AC3E1 /* TrendsCard.swift in Sources */,
+				71EBA992CC3ECC9426D4749A /* WorkoutCard.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		97CA7C3061FD872E9C4C6F0B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				COPY_PHASE_STRIP = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				SDKROOT = iphoneos;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_TESTABILITY = YES;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				ONLY_ACTIVE_ARCH = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		95121C75AE536EFB5170E606 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				COPY_PHASE_STRIP = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				SDKROOT = iphoneos;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		72260D82D361E9AC6E2A4C40 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = FitnessSummary;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.example.FitnessSummary;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1";
+			};
+			name = Debug;
+		};
+		025AD164C676D6E3D2C30FF5 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = FitnessSummary;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.example.FitnessSummary;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		E28BB0704BCB6EE33C260F76 /* Build configuration list for PBXProject "FitnessSummary" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				97CA7C3061FD872E9C4C6F0B /* Debug */,
+				95121C75AE536EFB5170E606 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2A962649C1CB2F3B6DC25BCD /* Build configuration list for PBXNativeTarget "FitnessSummary" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				72260D82D361E9AC6E2A4C40 /* Debug */,
+				025AD164C676D6E3D2C30FF5 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 11D19FAFA91B7295A98D6C0C /* Project object */;
+}
